@@ -1,0 +1,173 @@
+	.logo{
+	display: inline-block;
+	width: 100px;
+	padding: 30px 50px 0 30px;
+}
+nav{
+	display: inline-block;
+	padding: 30px 0 87px 50px;
+}
+li{
+	display: inline-block;
+	padding-right: 12px;
+}
+.mainlink { 
+	font-family:'BPG Nino Mtavruli Bold';
+	font-size:22px;
+	color:#EE4036;
+}
+.navbarlink{
+	font-family: 'BPG Nino Mtavruli Bold';
+	font-size:22px;
+	color:#3D58A6;
+}
+.bannerbox{
+	padding:0 0 109px 98px;
+}
+.blocktitle{
+	font-family: 'Roboto';
+	font-size: 24px;
+	padding:0 0 30px 98px;
+}
+.banner {
+	width: 1170px;
+}
+.mainpage{
+	display: inline-block;
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+}
+.boximage1 {
+	padding-left:30px;
+	padding-top: 14px;
+    width: 103px;
+
+}
+.boximage2{
+	padding-left:30px;
+	padding-top: 26px;
+	width: 76px;
+	vertical-align: center;
+}
+.block{
+	padding-left: 98px;
+	display:inline-block;
+	width: 590px;
+	height: 225px;
+}
+.boxdescritpion{
+	font-family: 'Roboto';
+	font-size: 20px;
+	display: inline-block;
+	width: 400px;
+	padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.boxdescritpion1{
+	font-family: 'Roboto';
+	font-size:20px;
+	display: inline-block;
+	width: 400px;
+	padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.boxtitle{
+	font-family: 'Roboto';
+	font-size:22px;
+	padding: 17px 0 10px 21px;
+}
+.socmedia{
+	padding: 68px 0 39px 98px;
+}
+.minilogo{
+	width: 10px;
+	margin-right: 30px;
+}
+.minilogo1{
+	width: 15px;
+	margin-left: 30px;
+}
+.date {
+	font-family: 'BPG Nino Mtavruli';
+	display: inline-block;
+	border: 5px;
+	padding: 5px;
+	margin-left: 30px;
+	font-size: 28px;
+	background-color:#3D58A6; 
+	color: white;
+	margin-bottom: 60px;
+	margin-top: 50px;
+}
+.month{
+	font-family: 'BPG Nino Mtavruli';
+	font-size: 22px;
+	display: inline-block;
+	color:#3D58A6;
+}
+.maintext{
+	width: 1250px;
+}
+.articletitle{
+	font-family: 'BPG Nino Mtavruli';
+	font-size: 20px;
+	padding-left:30px;
+	padding-bottom: 19px;
+}
+.articletext{
+	display: inline-block;
+	width: 900px;
+	padding-left: 30px;
+}
+.article {
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px; 
+	padding-bottom: 17px;
+}
+.articleimages{
+	width: 270px;
+	padding-left:30px;
+	vertical-align: top;
+}
+
+.contactbox{
+	width: all;
+	background-color: #E6E6E6;
+}
+.contactinfo{
+	display: inline-block;
+	width: 400px;
+	padding: 68px 52px 0 87px;
+}
+.info{
+	font-family: 'BPG Nino Mtavruli Bold';
+	font-size: 20px;
+	color: #3D58A6
+}
+.adress{
+	font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+     color:#808080;
+}
+.number{
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;   
+	color:#808080;
+}
+.mail{
+	font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+    color:#808080;
+}
+span{
+color:black;
+}
+.map{
+	width: 874px;
+	vertical-align: top;
+	padding: 52px 0 52px 0;
+}
+
