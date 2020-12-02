@@ -136,6 +136,7 @@ li{
 .contactbox{
 	width: all;
 	background-color: #E6E6E6;
+	height: 570px;
 }
 .contactinfo{
 	display: inline-block;
@@ -168,6 +169,6 @@ color:black;
 .map{
 	width: 874px;
 	vertical-align: top;
-	padding: 52px 0 52px 0;
+	padding: 52px 0 0 0;
 }
 
